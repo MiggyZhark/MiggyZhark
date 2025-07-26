@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate developer currently diving into client projects<br>while also dedicating time to my personal projects.<br>I'm always eager to learn and improve my skills, whether it's mastering new frameworks or optimizing my code.<br>Did you know? The first computer programmer was Ada Lovelace, who created an algorithm for Charles Babbage’s early mechanical <br>general-purpose computer, the Analytical Engine, back in the 1840s! <br>Talk about being ahead of your time!<br>
+I'm a passionate developer currently diving into client projects<br>while also dedicating time to my personal projects.<br>I'm always eager to learn and improve my skills, whether it's mastering new frameworks or optimizing my code.
 
 
 ## 🌐 Socials:
