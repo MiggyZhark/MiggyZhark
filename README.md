@@ -1,250 +1,45 @@
-<div align="center">
-
-```
-██████╗ ██╗██╗  ██╗███████╗██╗         ██╗    ██╗ █████╗ ██████╗ ██████╗ ██╗ ██████╗ ██████╗ 
-██╔══██╗██║╚██╗██╔╝██╔════╝██║         ██║    ██║██╔══██╗██╔══██╗██╔══██╗██║██╔═══██╗██╔══██╗
-██████╔╝██║ ╚███╔╝ █████╗  ██║         ██║ █╗ ██║███████║██████╔╝██████╔╝██║██║   ██║██████╔╝
-██╔═══╝ ██║ ██╔██╗ ██╔══╝  ██║         ██║███╗██║██╔══██║██╔══██╗██╔══██╗██║██║   ██║██╔══██╗
-██║     ██║██╔╝ ██╗███████╗███████╗    ╚███╔███╔╝██║  ██║██║  ██║██║  ██║██║╚██████╔╝██║  ██║
-╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝     ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE...;WELCOME+TO+THE+MATRIX;FULL+STACK+DEVELOPER;CYBERPUNK+CODER;PIXEL+WARRIOR" alt="Typing SVG" />
-
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="200"/>
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                    NEURAL LINK ESTABLISHED                    ▓
-▓                      STATUS: CONNECTED                       ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-</div>
-
----
-
-## 🎮 ABOUT THIS PLAYER
-
-<div align="center">
-
-```ascii
-╔═══════════════════════════════════════════════════════════════════════════╗
-║  🔥 PLAYER STATS                                                         ║
-║  ═══════════════════════════════════════════════════════════════════════  ║
-║  💀 CLASS: Full Stack Developer                                          ║
-║  ⚡ LEVEL: Senior                                                         ║
-║  🎯 SPECIALIZATION: Web Development & Mobile Apps                        ║
-║  🚀 CURRENT QUEST: Building next-gen applications                        ║
-║  💎 RARE SKILLS: Pixel Art Creation, UI/UX Design                       ║
-║  🔮 POWER-UPS: Always learning new frameworks & technologies             ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
-
-```
-██████████████████████████████████████████████████████████████████████████████
-█ MISSION OBJECTIVES:                                                        █
-█ ▓▓▓▓▓▓▓▓▓▓ Crafting pixel-perfect user interfaces                          █
-█ ▓▓▓▓▓▓▓▓▓▓ Optimizing code for maximum performance                         █
-█ ▓▓▓▓▓▓▓▓▓▓ Exploring cutting-edge technologies                             █
-█ ▓▓▓▓▓▓▓▓▓▓ Building immersive digital experiences                          █
-██████████████████████████████████████████████████████████████████████████████
-```
-
-</div>
-
----
-
-## ⚡ MY TECH ARSENAL
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                            🔫 WEAPON LOADOUT 🔫                            ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-### 🎯 PRIMARY WEAPONS
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ PROGRAMMING LANGUAGES                                                       │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000000)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=000000)
-![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000000)
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ FRAMEWORKS & LIBRARIES                                                      │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&labelColor=000000)
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=000000)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=000000)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=000000)
-
-### 🛡️ DEFENSIVE SYSTEMS
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ CLOUD & HOSTING                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=000000)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=000000)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=000000)
-![Apache](https://img.shields.io/badge/Apache-000000?style=for-the-badge&logo=apache&logoColor=D22128&labelColor=000000)
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ DATABASE SYSTEMS                                                            │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=000000)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=000000)
-
-### 🎨 CREATIVE TOOLS
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ DESIGN & PIXEL ART                                                          │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-![Aseprite](https://img.shields.io/badge/Aseprite-000000?style=for-the-badge&logo=aseprite&logoColor=7D929E&labelColor=000000)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=000000)
-![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=000000)
-![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=0055FF&labelColor=000000)
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ DEVELOPMENT TOOLS                                                           │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032&labelColor=000000)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=000000)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=000000)
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/>
-
-</div>
-
----
-
-## 📊 SYSTEM ANALYTICS
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                           📈 PERFORMANCE METRICS 📈                        ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://github-readme-stats.vercel.app/api?username=Miggy&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=00ffff&title_color=00ffff&text_color=ffffff&bg_color=0a0a0a" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Miggy&theme=synthwave&hide_border=true&stroke=00ffff&ring=00ffff&fire=ff0080&currStreakLabel=00ffff&background=0a0a0a" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miggy&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0a0a0a&title_color=00ffff&text_color=ffffff" width="48%" />
-
-</div>
-
----
-
-## 🏆 ACHIEVEMENT UNLOCKED
-
-<div align="center">
-
-```
-████████████████████████████████████████████████████████████████████████████
-█                          🎖️ TROPHIES EARNED 🎖️                          █
-████████████████████████████████████████████████████████████████████████████
-```
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Miggy&theme=matrix&no-frame=true&no-bg=false&margin-w=4&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest)
-
-</div>
-
----
-
-## 🌐 NETWORK CONNECTIONS
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                        🔗 ESTABLISH CONNECTION 🔗                          ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=000000)](https://facebook.com/Jayvin)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=000000)](https://instagram.com/Zhykunno)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=FFFFFF&labelColor=000000)](https://tiktok.com/@Mig6y)
-[![Twitch](https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=9146FF&labelColor=000000)](https://twitch.tv/NothinX)
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
-
-</div>
-
----
-
-## 💰 SUPPORT THE MISSION
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         💎 FUND THE OPERATION 💎                           ║
-║                    Help me acquire better equipment!                        ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-000000?style=for-the-badge&logo=ko-fi&logoColor=F16061&labelColor=000000)](https://ko-fi.com/miggymoo)
-[![PayPal](https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&logoColor=00457C&labelColor=000000)](https://paypal.me/Markimoo50@gmail.com)
-
-<img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif" width="200"/>
-
-</div>
-
----
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                            👁️ SURVEILLANCE 👁️                             ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=Miggy&icon=8&color=0)](https://visitcount.itsvg.in)
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-▓                 THANK YOU FOR VISITING THE MATRIX                 ▓
-▓                      STAY CONNECTED, STAY CYBER                   ▓
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-</div>
-
----
-
-<div align="center">
-<sub>⚡ Powered by caffeine and cyberpunk dreams ⚡</sub>
-</div>
+[![MasterHead](https://cdna.artstation.com/p/assets/images/images/071/087/584/original/fatih-emir-bg-design.gif?1704403912)](https://rishavchanda.io)
+
+<h1 align="Center">Hello, I'm a Full Stack Developer! 👋</h1>
+<h3 align="center">Junior Full Stack Developer specializing in UI & UX for web applications and web development, with a passion for game development as a hobby.</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/38d5854392d69b79a22dfe7a0a39fd84519618d2e5e035d49da7f193d1669365/68747470733a2f2f632e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sud0-4L0N3&label=Profile%20views&color=0e75b6&style=flat" alt="Sud0-4L0N3" /> </p>
+
+- 🌱 I'm currently learning **Advanced React patterns and Game Development**
+
+- 💬 Ask me about **Web Development, UI/UX Design, and Game Development**
+
+- 📫 How to reach me **activeoverflow@proton.me**
+
+- ⚡ Fun fact **I love creating both web apps and games!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ryan-dave-chiva-361574205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dave Chiva" height="30" width="40" /></a>
+<a href="https://fb.com/mr.insane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Dave Dave Chiva" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@rl17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rl17" height="30" width="40" /></a>
+<a href="https://discord.gg/root_sud0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="root_sud0" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://godotengine.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+</p>
+
+![snake gif](https://github.com/Sudo-4L0N3/Sudo-4L0N3/blob/output/github-snake-dark.svg)
+
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/https://ko-fi.com/sud00"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/sud00" /></a></p><br><br>
