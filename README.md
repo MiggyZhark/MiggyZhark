@@ -2,7 +2,7 @@
 
 <h1 align="Center">Hello, I'm a Full Stack Developer! 👋</h1>
 <h3 align="center">Junior Full Stack Developer specializing in UI & UX for web applications and web development, with a passion for game development as a hobby.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/38d5854392d69b79a22dfe7a0a39fd84519618d2e5e035d49da7f193d1669365/68747470733a2f2f632e74656e6f722e636f6d2f476653582d753756474d3441414141432f636f64696e672e676966">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sud0-4L0N3&label=Profile%20views&color=0e75b6&style=flat" alt="Sud0-4L0N3" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web Development, UI/UX Design, and Game Development**
 
-- 📫 How to reach me **activeoverflow@proton.me**
+- 📫 How to reach me **Undefined**
 
 - ⚡ Fun fact **I love creating both web apps and games!**
 
@@ -38,8 +38,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
-
-![snake gif](https://github.com/Sudo-4L0N3/Sudo-4L0N3/blob/output/github-snake-dark.svg)
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/https://ko-fi.com/sud00"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/sud00" /></a></p><br><br>
