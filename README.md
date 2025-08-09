@@ -1,178 +1,222 @@
 <div align="center">
 
-# 🎮 Welcome to My Digital Realm! 🎮
+```
+██████╗ ██╗██╗  ██╗███████╗██╗         ██╗    ██╗ █████╗ ██████╗ ██████╗ ██╗ ██████╗ ██████╗ 
+██╔══██╗██║╚██╗██╔╝██╔════╝██║         ██║    ██║██╔══██╗██╔══██╗██╔══██╗██║██╔═══██╗██╔══██╗
+██████╔╝██║ ╚███╔╝ █████╗  ██║         ██║ █╗ ██║███████║██████╔╝██████╔╝██║██║   ██║██████╔╝
+██╔═══╝ ██║ ██╔██╗ ██╔══╝  ██║         ██║███╗██║██╔══██║██╔══██╗██╔══██╗██║██║   ██║██╔══██╗
+██║     ██║██╔╝ ██╗███████╗███████╗    ╚███╔███╔╝██║  ██║██║  ██║██║  ██║██║╚██████╔╝██║  ██║
+╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝     ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚═╝  ╚═╝
+```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=35&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Miggy;Full+Stack+Developer;Pixel+Art+Enthusiast;Always+Learning+%26+Creating" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=SYSTEM+ONLINE...;WELCOME+TO+THE+MATRIX;FULL+STACK+DEVELOPER;CYBERPUNK+CODER;PIXEL+WARRIOR" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="200"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="200"/>
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                    NEURAL LINK ESTABLISHED                    ▓
+▓                      STATUS: CONNECTED                       ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
 </div>
 
 ---
 
-## 🕹️ About This Player
+## 🎮 ABOUT THIS PLAYER
+
+<div align="center">
 
 ```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  🎯 Currently grinding on client projects & personal builds  ║
-║  🚀 Leveling up skills in modern frameworks & optimization   ║
-║  🎨 Crafting pixel-perfect UIs and smooth user experiences   ║
-║  💡 Always exploring new tech and creative solutions         ║
-╚══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════╗
+║  🔥 PLAYER STATS                                                         ║
+║  ═══════════════════════════════════════════════════════════════════════  ║
+║  💀 CLASS: Full Stack Developer                                          ║
+║  ⚡ LEVEL: Senior                                                         ║
+║  🎯 SPECIALIZATION: Web Development & Mobile Apps                        ║
+║  🚀 CURRENT QUEST: Building next-gen applications                        ║
+║  💎 RARE SKILLS: Pixel Art Creation, UI/UX Design                       ║
+║  🔮 POWER-UPS: Always learning new frameworks & technologies             ║
+╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
-</div>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300"/>
 
----
-
-## 🌐 Connect & Follow My Journey
-
-<div align="center">
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://facebook.com/Jayvin)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://instagram.com/Zhykunno)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000)](https://tiktok.com/@Mig6y)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=9146FF)](https://twitch.tv/NothinX)
+```
+██████████████████████████████████████████████████████████████████████████████
+█ MISSION OBJECTIVES:                                                        █
+█ ▓▓▓▓▓▓▓▓▓▓ Crafting pixel-perfect user interfaces                          █
+█ ▓▓▓▓▓▓▓▓▓▓ Optimizing code for maximum performance                         █
+█ ▓▓▓▓▓▓▓▓▓▓ Exploring cutting-edge technologies                             █
+█ ▓▓▓▓▓▓▓▓▓▓ Building immersive digital experiences                          █
+██████████████████████████████████████████████████████████████████████████████
+```
 
 </div>
 
 ---
 
-## ⚡ My Tech Arsenal
-
-<div align="center">
-
-### 🎮 Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-### 🚀 Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### ☁️ Cloud & Hosting
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🎨 Design Tools
-![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<div align="center">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400"/>
-</div>
----
-
-## 📊 Player Stats & Achievements
-
-<div align="center">
-
-### 🎯 GitHub Analytics
-
-<img src="https://github-readme-stats.vercel.app/api?username=Miggy&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=00ff41&title_color=00ff41&text_color=ffffff&bg_color=0d1117" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Miggy&theme=synthwave&hide_border=true&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miggy&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=ffffff" width="48%" />
-
-</div>
-
-<div align="center">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
-</div>
-
----
-
-## 🏆 Achievement Gallery
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Miggy&theme=matrix&no-frame=true&no-bg=false&margin-w=4&column=4)
-
-</div>
-
----
-
-## 💭 Daily Inspiration
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave)
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
-
-</div>
-
----
-
-## 🎮 Pixel Art Gallery
+## ⚡ MY TECH ARSENAL
 
 <div align="center">
 
 ```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⣤⣤⣤⣤⣶⣦⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀ 
-⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⡿⠛⠉⠙⠛⠛⠛⠛⠻⢿⣿⣷⣤⡀⠀⠀⠀⠀⠀ 
-⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⠋⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⠈⢻⣿⣿⡄⠀⠀⠀⠀ 
-⠀⠀⠀⠀⠀⠀⠀⣸⣿⡏⠀⠀⠀⣠⣶⣾⣿⣿⣿⠿⠿⠿⢿⣿⣿⣿⣄⠀⠀⠀ 
-⠀⠀⠀⠀⠀⠀⠀⣿⣿⠁⠀⠀⢰⣿⣿⣯⠁⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⣷⡄⠀ 
-⠀⠀⣀⣤⣴⣶⣶⣿⡟⠀⠀⠀⢸⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣷⠀ 
-⠀⢰⣿⡟⠋⠉⣹⣿⡇⠀⠀⠀⠘⣿⣿⣿⣿⣷⣦⣤⣤⣤⣶⣶⣶⣶⣿⣿⣿⠀ 
-⠀⢸⣿⡇⠀⠀⣿⣿⡇⠀⠀⠀⠀⠹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃⠀ 
-⠀⣸⣿⡇⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠉⠻⠿⣿⣿⣿⣿⡿⠿⠿⠛⢻⣿⡇⠀⠀ 
-⠀⣿⣿⠁⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣧⠀⠀ 
-⠀⣿⣿⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀⠀ 
-⠀⣿⣿⠀⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⠀⠀ 
-⠀⢿⣿⡆⠀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⡇⠀⠀ 
-⠀⠸⣿⣧⡀⠀⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠃⠀⠀ 
-⠀⠀⠛⢿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⣰⣿⣿⣷⣶⣶⣶⣶⠶⠀⢠⣿⣿⠀⠀⠀ 
-⠀⠀⠀⠀⠀⠀⠀⣿⣿⠀⠀⠀⠀⠀⣿⣿⡇⠀⣽⣿⡏⠁⠀⠀⢸⣿⡇⠀⠀⠀ 
-⠀⠀⠀⠀⠀⠀⠀⣿⣿⠀⠀⠀⠀⠀⣿⣿⡇⠀⢹⣿⡆⠀⠀⠀⣸⣿⠇⠀⠀⠀ 
-⠀⠀⠀⠀⠀⠀⠀⢿⣿⣦⣄⣀⣠⣴⣿⣿⠁⠀⠈⠻⣿⣿⣿⣿⡿⠏⠀⠀⠀⠀ 
-⠀⠀⠀⠀⠀⠀⠀⠈⠛⠻⠿⠿⠿⠿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                            🔫 WEAPON LOADOUT 🔫                            ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-**"Coding is my superpower! 💻✨"**
+### 🎯 PRIMARY WEAPONS
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ PROGRAMMING LANGUAGES                                                       │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=000000)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=000000)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=0175C2&labelColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000000)
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ FRAMEWORKS & LIBRARIES                                                      │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&labelColor=000000)
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933&labelColor=000000)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=000000)
+
+### 🛡️ DEFENSIVE SYSTEMS
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ CLOUD & HOSTING                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=000000)
+![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7&labelColor=000000)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=000000)
+![Apache](https://img.shields.io/badge/Apache-000000?style=for-the-badge&logo=apache&logoColor=D22128&labelColor=000000)
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ DATABASE SYSTEMS                                                            │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=000000)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=000000)
+
+### 🎨 CREATIVE TOOLS
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ DESIGN & PIXEL ART                                                          │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+![Aseprite](https://img.shields.io/badge/Aseprite-000000?style=for-the-badge&logo=aseprite&logoColor=7D929E&labelColor=000000)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=000000)
+![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00C4CC&labelColor=000000)
+![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=0055FF&labelColor=000000)
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ DEVELOPMENT TOOLS                                                           │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032&labelColor=000000)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=000000)
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="400"/>
 
 </div>
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 📊 SYSTEM ANALYTICS
 
 <div align="center">
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Miggy&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                           📈 PERFORMANCE METRICS 📈                        ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=Miggy&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=00ffff&title_color=00ffff&text_color=ffffff&bg_color=0a0a0a" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Miggy&theme=synthwave&hide_border=true&stroke=00ffff&ring=00ffff&fire=ff0080&currStreakLabel=00ffff&background=0a0a0a" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miggy&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0a0a0a&title_color=00ffff&text_color=ffffff" width="48%" />
 
 </div>
 
 ---
 
-## 💰 Support My Journey
+## 🏆 ACHIEVEMENT UNLOCKED
 
 <div align="center">
 
-**If you like my work, consider buying me a coffee! ☕**
+```
+████████████████████████████████████████████████████████████████████████████
+█                          🎖️ TROPHIES EARNED 🎖️                          █
+████████████████████████████████████████████████████████████████████████████
+```
 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/miggymoo)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Markimoo50@gmail.com)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Miggy&theme=matrix&no-frame=true&no-bg=false&margin-w=4&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest)
 
-<img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="200"/>
+</div>
+
+---
+
+## 🌐 NETWORK CONNECTIONS
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                        🔗 ESTABLISH CONNECTION 🔗                          ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+[![Facebook](https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=000000)](https://facebook.com/Jayvin)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=000000)](https://instagram.com/Zhykunno)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=FFFFFF&labelColor=000000)](https://tiktok.com/@Mig6y)
+[![Twitch](https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=9146FF&labelColor=000000)](https://twitch.tv/NothinX)
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+
+</div>
+
+---
+
+## 💰 SUPPORT THE MISSION
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                         💎 FUND THE OPERATION 💎                           ║
+║                    Help me acquire better equipment!                        ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-000000?style=for-the-badge&logo=ko-fi&logoColor=F16061&labelColor=000000)](https://ko-fi.com/miggymoo)
+[![PayPal](https://img.shields.io/badge/PayPal-000000?style=for-the-badge&logo=paypal&logoColor=00457C&labelColor=000000)](https://paypal.me/Markimoo50@gmail.com)
+
+<img src="https://media.giphy.com/media/IwAZ6dvvvaTtdI8SD5/giphy.gif" width="200"/>
 
 </div>
 
@@ -180,10 +224,20 @@
 
 <div align="center">
 
-### 👀 Profile Views
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                            👁️ SURVEILLANCE 👁️                             ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
 [![Profile Views](https://visitcount.itsvg.in/api?id=Miggy&icon=8&color=0)](https://visitcount.itsvg.in)
 
-**Thanks for visiting! Keep coding and stay awesome! 🚀**
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                 THANK YOU FOR VISITING THE MATRIX                 ▓
+▓                      STAY CONNECTED, STAY CYBER                   ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
@@ -192,5 +246,5 @@
 ---
 
 <div align="center">
-<sub>💖 Crafted with passion and lots of coffee ☕</sub>
+<sub>⚡ Powered by caffeine and cyberpunk dreams ⚡</sub>
 </div>
