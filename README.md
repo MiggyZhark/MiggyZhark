@@ -1,6 +1,6 @@
 [![MasterHead](https://cdna.artstation.com/p/assets/images/images/071/087/584/original/fatih-emir-bg-design.gif?1704403912)](https://rishavchanda.io)
 
-<h1 align="Center">Hello, I'm a Full Stack Developer! 👋</h1>
+<h1 align="Center">Hello, I'm a Frontend Developer! 👋</h1>
 <h3 align="center">Junior Full Stack Developer specializing in UI & UX for web applications and web development, with a passion for game development as a hobby.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 
